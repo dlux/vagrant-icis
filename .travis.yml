@@ -1,7 +1,5 @@
 language: python
 install:
-  - pip install tox 
+  - pip install bashate
 script:
-  - tox
-env:
-  - TOXENV=bashate
+  - bashate install.sh
