@@ -1,7 +1,9 @@
 ICIS on CentOS and NGINX
 ========================
-.. image:: https://travis-ci.org/dlux/vagrant-icis.svg?branch=master
-    :target: https://travis-ci.org/dlux/vagrant-icis
+
+.. image:: https://travis-ci.com/dlux/vagrant-icis.svg?branch=master
+    :target: https://travis-ci.com/dlux/vagrant-icis
+
 
 `ICIS <https://github.com/clearlinux/ister-cloud-init-svc>`_ is a service that Ister uses to automatically install an instance of Clear Linux via PXE server - equivalent to kickstart files.
 
